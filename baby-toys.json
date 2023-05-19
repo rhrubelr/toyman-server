@@ -1,0 +1,156 @@
+[
+    {
+      "name": "Rattle Ball",
+      "age_range": "0-12 months",
+      "material": "BPA-free plastic",
+      "color": "red",
+      "price": 12.99,
+      "rating": 4.5,
+      "image": "https://example.com/rattle_ball.jpg"
+    },
+    {
+      "name": "Soft Plush Toy",
+      "age_range": "0-24 months",
+      "material": "Polyester",
+      "color": "pink",
+      "price": 9.99,
+      "rating": 4.2,
+      "image": "https://example.com/soft_plush_toy.jpg"
+    },
+    {
+      "name": "Stacking Rings",
+      "age_range": "6-36 months",
+      "material": "Non-toxic plastic",
+      "color": "green",
+      "price": 14.99,
+      "rating": 4.7,
+      "image": "https://example.com/stacking_rings.jpg"
+    },
+    {
+      "name": "Squeaky Duck",
+      "age_range": "0-12 months",
+      "material": "Rubber",
+      "color": "yellow",
+      "price": 7.99,
+      "rating": 4.0,
+      "image": "https://example.com/squeaky_duck.jpg"
+    },
+    {
+      "name": "Teething Keys",
+      "age_range": "3-12 months",
+      "material": "BPA-free plastic",
+      "color": "blue",
+      "price": 6.99,
+      "rating": 4.3,
+      "image": "https://example.com/teething_keys.jpg"
+    },
+    {
+      "name": "Activity Gym",
+      "age_range": "0-6 months",
+      "material": "Fabric",
+      "color": "multicolor",
+      "price": 34.99,
+      "rating": 4.8,
+      "image": "https://example.com/activity_gym.jpg"
+    },
+    {
+      "name": "Musical Mobile",
+      "age_range": "0-12 months",
+      "material": "Plastic",
+      "color": "white",
+      "price": 19.99,
+      "rating": 4.6,
+      "image": "https://example.com/musical_mobile.jpg"
+    },
+    {
+      "name": "Stacking Cups",
+      "age_range": "6-24 months",
+      "material": "Non-toxic plastic",
+      "color": "rainbow",
+      "price": 8.99,
+      "rating": 4.4,
+      "image": "https://example.com/stacking_cups.jpg"
+    },
+    {
+      "name": "Crib Mirror",
+      "age_range": "0-12 months",
+      "material": "Acrylic",
+      "color": "silver",
+      "price": 14.99,
+      "rating": 4.2,
+      "image": "https://example.com/crib_mirror.jpg"
+    },
+    {
+      "name": "Sensory Ball Set",
+      "age_range": "6-24 months",
+      "material": "BPA-free plastic",
+      "color": "multicolor",
+      "price": 16.99,
+      "rating": 4.7,
+      "image": "https://example.com/crib_mirror.jpg"
+    },
+
+    {
+        "name": "rabada",
+        "age_range": "0-12 months",
+        "material": "BPA-free plastic",
+        "color": "red",
+        "price": 12.99,
+        "rating": 4.5,
+        "image": "https://example.com/rattle_ball.jpg"
+      },
+      {
+        "name": "sabeda",
+        "age_range": "0-24 months",
+        "material": "Polyester",
+        "color": "pink",
+        "price": 9.99,
+        "rating": 4.2,
+        "image": "https://example.com/soft_plush_toy.jpg"
+      },
+      {
+        "name": "singari",
+        "age_range": "6-36 months",
+        "material": "Non-toxic plastic",
+        "color": "green",
+        "price": 14.99,
+        "rating": 4.7,
+        "image": "https://example.com/stacking_rings.jpg"
+      },
+      {
+        "name": "markoli",
+        "age_range": "0-12 months",
+        "material": "Rubber",
+        "color": "yellow",
+        "price": 7.99,
+        "rating": 4.0,
+        "image": "https://example.com/squeaky_duck.jpg"
+      },
+      {
+        "name": "salio",
+        "age_range": "3-12 months",
+        "material": "BPA-free plastic",
+        "color": "blue",
+        "price": 6.99,
+        "rating": 4.3,
+        "image": "https://example.com/teething_keys.jpg"
+      },
+      {
+        "name": "adomi",
+        "age_range": "0-6 months",
+        "material": "Fabric",
+        "color": "multicolor",
+        "price": 34.99,
+        "rating": 4.8,
+        "image": "https://example.com/activity_gym.jpg"
+      },
+      {
+        "name": "Musical anro",
+        "age_range": "0-12 months",
+        "material": "Plastic",
+        "color": "white",
+        "price": 19.99,
+        "rating": 4.6,
+        "image": "https://example.com/musical_mobile.jpg"
+      }
+]
