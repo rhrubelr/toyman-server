@@ -50,6 +50,8 @@ async function run() {
             res.send(result);
         })
 
+        
+
         // for update data 
         app.get('/toys/:id', async (req, res)=>{
             const id = id.params.id;
@@ -68,7 +70,7 @@ async function run() {
         })
 
 
-        // delete data 
+        
        app.delete('/toys/:id', async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) }
